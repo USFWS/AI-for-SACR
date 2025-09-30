@@ -1,8 +1,8 @@
 [
   {
-    "name": "r7-repo-template",
+    "name": "AI-for-SACR",
     "organization": "U.S. Fish & Wildlife Service",
-    "description": "R7 GitHub Repository Template",
+    "description": "AI-for-SACR",
     "version": "0.1.0",
     "status": "Development",
 
@@ -16,16 +16,16 @@
       ]
     },
 
-    "homepageURL": "https://github.com/USFWS/r7-repo-template",
-    "downloadURL": "https://github.com/USFWS/r7-repo-template/archive/refs/heads/main.zip",
-    "disclaimerURL": "https://github.com/USFWS/r7-repo-template/blob/main/DISCLAIMER.md",
-    "repositoryURL": "https://github.com/USFWS/r7-repo-template.git",
+    "homepageURL": "https://github.com/USFWS/AI-for-SACR",
+    "downloadURL": "https://github.com/USFWS/AI-for-SACR/archive/refs/heads/main.zip",
+    "disclaimerURL": "https://github.com/USFWS/AI-for-SACR/blob/main/DISCLAIMER.md",
+    "repositoryURL": "https://github.com/USFWS/AI-for-SACR.git",
     "vcs": "git",
 
     "laborHours": 4,
 
     "tags": [
-      "r7",
+      "r9",
       "usfws"
     ],
 
@@ -33,15 +33,16 @@
       "r",
       "json",
       "md",
+      "python"
     ],
 
     "contact": {
-      "name": "Your first and last name",
-      "email": "firstname_lastname@fws.gov"
+      "name": "Bradley Pickens",
+      "email": "bradley_pickens@fws.gov"
     },
 
     "date": {
-      "metadataLastUpdated": "2023-05-17"
+      "metadataLastUpdated": "2025-09-29"
     }
   }
 ]
