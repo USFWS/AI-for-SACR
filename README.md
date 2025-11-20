@@ -1,6 +1,6 @@
 # AI-for-SACR
 
-### This repository contains R and Python code for conducting deep learning, computer vision analyses. Specifically, the code has been developed to detect and count Sandhill Crane. Please contact Brad Pickens, bradley_pickens@fws.gov, for more information or for questions.
+### This repository contains R and Python code for conducting deep learning, computer vision analyses. Specifically, the code has been developed to detect and count Sandhill Crane in thermal imagery. Please contact Brad Pickens, bradley_pickens@fws.gov, for more information or for questions.
 
 ### The realm covered here includes imagery management and preprocessing, annotation conversions, deep learning model training/testing, deep learning inference, post-processing, and statistical analyses. Project-specific code is tailored to ongoing USFWS projects. 
 
