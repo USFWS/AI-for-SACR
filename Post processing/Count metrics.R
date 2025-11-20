@@ -23,3 +23,8 @@ mse (data1$gt_sacr, data1$predict_sacr)
 
 # mape
 mape (data1$gt_sacr, data1$predict_sacr)
+
+## image recall, precision
+recall (merge1$gt_sacr_pa, merge1$sacr_predict_pa)
+precision (merge1$gt_sacr_pa, merge1$sacr_predict_pa)
+
